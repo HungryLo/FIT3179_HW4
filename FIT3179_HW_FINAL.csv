@@ -1,0 +1,56 @@
+﻿Continent,Year,GDP(USD)
+Europe,2000,13491.652
+Europe,2001,13725.743
+Europe,2002,15003.98
+Europe,2003,18206.031
+Europe,2004,21127.343
+Europe,2005,22345.116
+Europe,2006,24122.581
+Europe,2007,28069.97
+Europe,2008,30776.684
+Europe,2009,26984.15
+Europe,2010,27383.412
+Africa,2000,899.635
+Africa,2001,850.013
+Africa,2002,848.763
+Africa,2003,994.652
+Africa,2004,1159.495
+Africa,2005,1330.368
+Africa,2006,1495.267
+Africa,2007,1699.695
+Africa,2008,1916.879
+Africa,2009,1774.472
+Africa,2010,2028.765
+East Asia,2000,4925.666
+East Asia,2001,4537.436
+East Asia,2002,4526.851
+East Asia,2003,4907.489
+East Asia,2004,5407.63
+East Asia,2005,5683.567
+East Asia,2006,5903.895
+East Asia,2007,6489.531
+East Asia,2008,7397.996
+East Asia,2009,7726.821
+East Asia,2010,8779.033
+North America,2000,28313.075
+North America,2001,28914.37
+North America,2002,29516.171
+North America,2003,30665.7
+North America,2004,32548.608
+North America,2005,34659.111
+North America,2006,36611.408
+North America,2007,38198.393
+North America,2008,38767.908
+North America,2009,36889.969
+North America,2010,38646.642
+South America,2000,4003.904
+South America,2001,3627.888
+South America,2002,2818.39
+South America,2003,2997.439
+South America,2004,3578.22
+South America,2005,4514.338
+South America,2006,5424.905
+South America,2007,6668.632
+South America,2008,8009.268
+South America,2009,7632.234
+South America,2010,9672.826
